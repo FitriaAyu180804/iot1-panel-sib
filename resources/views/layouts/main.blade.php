@@ -47,7 +47,7 @@
     <!-- Spectrum CSS -->
     <link rel="stylesheet" type="text/css"
         href="https://cdn.jsdelivr.net/npm/spectrum-colorpicker2/dist/spectrum.min.css">
-    {{-- 
+    {{--
     <style>
         .navbar-nav{
             position: relative;
