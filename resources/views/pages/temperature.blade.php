@@ -45,7 +45,7 @@
                                 const series = chart.series[0],
                                     shift = series.data.length > 20;
                                 chart.series[0].addPoint(point, true, shift);
-                                setTimeout(requestData, 1000);
+                                setTimeout(requestData, 5000);
                             }
                         }
 
